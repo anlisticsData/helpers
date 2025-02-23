@@ -2,7 +2,7 @@
 
 namespace  EdilsonCSilva\Helpers;
 
-class HttpRequests
+class HttpRequest
 {
     private function __clone() {}
     private function __construct() {}
